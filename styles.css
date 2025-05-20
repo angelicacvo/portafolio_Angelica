@@ -1,0 +1,51 @@
+body{
+    font-family: "Playfair Display", serif;
+    background-color: #edede9;
+}
+
+nav{
+    background-color: #d5bdaf;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 20px;
+    padding-right: 20px;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  
+  .flex-item {
+    flex: 1 1 calc(33.333% - 20px);
+    box-sizing: border-box;
+    padding: 30px;
+    text-align: center;
+  }
+
+.card > img{
+    height: 300px;
+    object-fit: cover;
+}
+
+.flex-item > img {
+    padding: 10%;
+    width: 100%;
+    
+}
+
+.main{
+    margin: 2%;
+}
+
+h1,
+h2{
+    text-align: center;
+}
+
+#contact{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
