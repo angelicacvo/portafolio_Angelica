@@ -44,10 +44,21 @@ h2{
     margin-bottom: 5%;
 }
 
+.btn-btn-link{
+    background-color: #e5ded2;
+    border-color:  #e5ded2;
+    color: #463f3a;
+}
+
+.btn-btn-link:hover{
+    background-color: #cec2b6;
+    border-color:  #cec2b6;
+    color: #f4f3ee;
+}
+
 #contact{
     margin-left: 20%;
     margin-right: 20%;
     margin-top: 10%;
     margin-bottom: 10%;
 }
-
