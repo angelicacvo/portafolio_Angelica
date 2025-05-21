@@ -56,6 +56,20 @@ h2{
     color: #f4f3ee;
 }
 
+.btn-btn-link:active{
+    background-color: #cec2b6;
+    border-color:  #cec2b6;
+    color: #f4f3ee;
+}
+
+.link{
+    color: #463f3a
+}
+
+.link:hover{
+    color: #463f3a
+}
+
 #contact{
     margin-left: 20%;
     margin-right: 20%;
