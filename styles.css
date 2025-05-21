@@ -3,10 +3,6 @@ body{
     background-color: #edede9;
 }
 
-nav{
-    background-color: #d5bdaf;
-}
-
 .flex-container {
     display: flex;
     flex-wrap: wrap;
@@ -38,9 +34,14 @@ nav{
     margin: 2%;
 }
 
+nav{
+    background-color: #d5bdaf;
+}
+
 h1,
 h2{
     text-align: center;
+    margin-bottom: 5%;
 }
 
 #contact{
@@ -49,3 +50,4 @@ h2{
     margin-top: 10%;
     margin-bottom: 10%;
 }
+
